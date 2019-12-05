@@ -1,0 +1,26 @@
+{
+  "name": "recast-demo",
+  "version": "1.0.0",
+  "description": "leaning recast",
+  "main": "./src/exportifics.js",
+  "bin": {
+    "exportific": "./src/exportifics.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarred-n/recast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarred-n/recast/issues"
+  },
+  "homepage": "https://github.com/jarred-n/recast#readme",
+  "dependencies": {
+    "recast": "^0.18.5"
+  }
+}
